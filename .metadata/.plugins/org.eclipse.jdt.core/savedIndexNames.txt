@@ -1,0 +1,11 @@
+INDEX VERSION 1.134+C:\Users\gabri\Documents\Lista07_EX\Media\.metadata\.plugins\org.eclipse.jdt.core
+996806794.index
+1865797976.index
+1491385117.index
+834679981.index
+3374167223.index
+3629693340.index
+4172631224.index
+42451283.index
+213327616.index
+971266705.index
